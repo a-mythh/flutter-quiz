@@ -46,8 +46,8 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ## App Download
 
-- [Android App](https://github.com/a-mythh/flutter-quiz/installers/Quiz%20app.apk)
-- [Windows App](https://github.com/a-mythh/flutter-quiz/installers/setup.exe)
+- [Android App](https://github.com/a-mythh/flutter-quiz/raw/main/installers/Quiz%20app.apk)
+- [Windows App](https://github.com/a-mythh/flutter-quiz/raw/main/installers/setup.exe)
 
 ## Acknowledgements
 
