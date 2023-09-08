@@ -10,9 +10,13 @@ This Flutter Quiz app is a simple and clean-looking application designed to help
 
 ## Screenshots
 
-![Startup](/assets/snapshots/start.png)
-![Home Screen](/assets/snapshots/home_screen.png)
-![Question](/assets/snapshots/questions.png)
+<p align="center">
+  <img src="/assets/snapshots/start.png" alt="Screenshot 1" width="300">
+  <span style="display:inline-block; width:10px;"></span>
+  <img src="/assets/snapshots/home_screen.png" alt="Screenshot 2" width="300">
+  <span style="display:inline-block; width:10px;"></span>
+  <img src="/assets/snapshots/questions.png" alt="Screenshot 3" width="300">
+</p>
 
 ## Getting Started
 
